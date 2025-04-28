@@ -1,0 +1,3 @@
+# Defeat the Evil Wizard
+
+In this project, I dived into OOP in Python. I found that it really helped me to understand how to use classes and how classes can reference other classes. I learned about using methods in classes and where to use different types of attributes within a class. I also learned about using the 'hasattr' method which lets you easily reference an attribute from another instance of a class. I also learned about using slow print in the console and how that can help create some variety in the UI. Overall I really enjoyed building this project up and I feel like it will be something I revisit in the future.
